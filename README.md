@@ -1,4 +1,4 @@
-# Tradeandmark Chat
+# Cahtty Monkey 
 
 A simple chat app powered by Socket.IO, ready for Heroku
 
